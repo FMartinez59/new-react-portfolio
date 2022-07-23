@@ -3,7 +3,7 @@
 ## My Personal Challenge for this week was to create a single-paged application using react. With this I went ahead and decided to make a new portfolio and put what I have learned over the past six months to the test. 
 
 ## Deployed Application 
-
+https://fmartinez59.github.io/new-react-portfolio/
  
 ## Technologies Used
 [Create React App](https://github.com/facebook/create-react-app)
